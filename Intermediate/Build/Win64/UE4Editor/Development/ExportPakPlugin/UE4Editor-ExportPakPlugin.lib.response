@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ExportPakPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\GitLab\makePak\make-pak\Intermediate\Build\Win64\MDeskEditor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"C:\GitLab\makePak\make-pak\Plugins\ExportPakPlugin\Intermediate\Build\Win64\UE4Editor\Development\ExportPakPlugin\Module.ExportPakPlugin.cpp.obj"
+"C:\GitLab\makePak\make-pak\Plugins\ExportPakPlugin\Intermediate\Build\Win64\UE4Editor\Development\ExportPakPlugin\Module.ExportPakPlugin.gen.cpp.obj"
+"C:\GitLab\makePak\make-pak\Plugins\ExportPakPlugin\Intermediate\Build\Win64\UE4Editor\Development\ExportPakPlugin\PCLaunch.rc.res"
+/OUT:"C:\GitLab\makePak\make-pak\Plugins\ExportPakPlugin\Intermediate\Build\Win64\UE4Editor\Development\ExportPakPlugin\UE4Editor-ExportPakPlugin.lib"
